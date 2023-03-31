@@ -1,7 +1,7 @@
 Olá! Eu sou o Júlio César
 
 - 🔭 Atualmente trabalhando com Desenvolvimento Front-end;
-- 🌱 Aprendendo NodeJS e Phyton;
+- 🌱 Aprendendo React Native e Phyton;
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
