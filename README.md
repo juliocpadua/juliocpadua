@@ -1,7 +1,8 @@
 Olá! Eu sou o Júlio César
 
-- 🔭 Desenvolvedor web full-stack;
-- 🌱 Aprendendo React Native, Java e PHP;
+- 🔭 Desenvolvedor Full-stack;
+- 🔭 Desenvolvedor RPA;
+- 🌱 Aprendendo Flutter;
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
