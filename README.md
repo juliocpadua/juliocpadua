@@ -2,7 +2,7 @@ Olá! Eu sou o Júlio César
 
 - 🔭 Desenvolvedor Full-stack;
 - 🔭 Desenvolvedor RPA;
-- 🌱 Aprendendo Flutter;
+- 🌱 Graduando Inteligência Artificial Aplicada;
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
